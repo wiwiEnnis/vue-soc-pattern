@@ -1,4 +1,4 @@
-# vue-ts-test
+# vue-soc-pattern
 
 ## Project setup
 ```
