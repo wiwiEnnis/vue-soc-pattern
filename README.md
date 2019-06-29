@@ -1,29 +1,7 @@
 # vue-soc-pattern
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- component pattern(https://github.com/wiwiEnnis/vue-soc-pattern/blob/master/src/components/ComponentPattern.vue)
+- function api pattern(https://github.com/wiwiEnnis/vue-soc-pattern/blob/master/src/components/FunctionApiPattern.vue)
+- function pattern(https://github.com/wiwiEnnis/vue-soc-pattern/blob/master/src/components/FunctionPattern.vue)
+- renderless pattern(https://github.com/wiwiEnnis/vue-soc-pattern/blob/master/src/components/RenderlessPattern.vue)
+- scoped slot pattern(https://github.com/wiwiEnnis/vue-soc-pattern/blob/master/src/components/ScopedSlotPattern.vue)
